@@ -56,4 +56,7 @@ spoon {
 
   // To grant permissions to Android M >= devices */
   grantAllPermissions = true
+
+  shard = true
 }
+
