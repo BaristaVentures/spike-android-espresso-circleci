@@ -12,3 +12,6 @@ test:
   script:
     - source /etc/profile
     - ./gradlew spoonDebugAndroidTest
+  artifacts:
+    paths:
+    - app/build/
