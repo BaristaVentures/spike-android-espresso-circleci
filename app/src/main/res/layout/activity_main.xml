@@ -20,5 +20,5 @@
     android:layout_height="wrap_content"
     android:layout_gravity="center"
     android:layout_marginTop="16dp"
-    android:text="Click me to show toast" />
+    android:text="Click me to show a dialog" />
 </LinearLayout>
